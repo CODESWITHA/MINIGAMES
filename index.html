@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Slab&family=Source+Code+Pro&display=swap"
+      rel="stylesheet"
+    />
+    <link href="index.css" rel="stylesheet" />
+    <link rel="icon" href="icon.png" />
+    <title>MINIGAMES</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="header">
+        <div class="headercontainer">
+          <h1>WELCOME TO MINIGAMES!</h1>
+          <h2>🎲 Small games with to defeat bordem 🥱</h2>
+        </div>
+      </header>
+
+      <section class="mainpage">
+        <div class="container2">
+          <button class="card-one">
+            <div class="headcard-1">
+              <h5>Guess the Number!</h5>
+            </div>
+            <div class="card-image card-image-one"></div>
+          </button>
+          <button class="card-two">
+            <div class="headcard-2">
+              <h5>100 and beyond!</h5>
+            </div>
+            <div class="card-image card-image-two"></div>
+          </button>
+        </div>
+        <section class="modal  hidden">
+          <h4>Guess the Number!</h4>
+        
+            <p>
+            Guess what secret number is hiding behind the card! It's a number
+            between 1 and 20. 
+            Can you figure out the number before your scores run out? Have a go
+            to see if you can conquer this challenge! 1+ players.</p>
+          <div> <a href="number.html" id="playbtn">PLAY</a></div> 
+            <div class="closebtn"></div>
+          
+        </section>
+
+        <section class="modal-1 hidden">
+          <h4> 100 and beyond! </h4>
+          <p> Will you risk what you have to race to 100? If you roll a 1 on the dice all your current scores
+            will be lost! Who will get there first. 2 players.  </p>
+          <div><a href="100.html" id="playbtn1">PLAY</a></div>
+        
+          <div class="closebtn1"></div>
+      </section>
+      <div class="overlay hidden "></div>
+    </div>
+    <script type="text/javascript" src="scriptt.js"></script>
+
+  </body>
+</html>
