@@ -82,11 +82,10 @@ Note: z-index only works on positioned elements (position: absolute, position: r
   Going forward I will like to learn more about other Vanilla JavaScript logic that I can use to build small projects as well as looking into CSS Grids. this will help me with making responsive designing much smoother and easier for me.
   
   
-## Contributions 
- This code and design was inspired by Jonas Schmedtmann in his Morden JavaScript course on Udemy. I have wrote the main parts of code by myself with some influence and help from Jonas' tutorials
+## Contributions & Disclaimer
+ This code and design was inspired by Jonas Schmedtmann in his Morden JavaScript course on Udemy. I have wrote the main parts of code by myself with some influence and help from Jonas' tutorials.<br>
+	In the '100 and Beyond' game, the screenshots show they player winning when the score reaches above 20. This is only for demo purposes.
   
-## Disclaimer
-	<p> In thw '100 and Beyond' game, the screenshots show they player winning when the score reaches above 20. This is Only for demo purposes
 
   
   
