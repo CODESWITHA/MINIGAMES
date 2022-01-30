@@ -1,4 +1,4 @@
-# MINIGAMES
+# 👾 MINIGAMES! 🎲
 
 This is a responsive web page that I created that hosts 2 minigames. In this project I made an effort to use Vanilla JavaSccript on all 3 pages. 
 
@@ -12,6 +12,8 @@ Features:
 Tips 
 	- have a class for every element as you may need to select it
 	- Make use of the .hidden (display: none} element - you do not need to initially add it to the html, you can create it in css and then when used in JavaScript if you inspect the Elements you will see that it had been added on
+	
+## What I learned 
 
 Making the card as an active button for overlay
 
@@ -72,12 +74,16 @@ Note: z-index only works on positioned elements (position: absolute, position: r
   JavaScript
   
   When writing the code for JavaScript, I tried to excute the DRY rule as much as I could. This means turning code into functions when I had repeated a block of function code more than once 
+	
+## Summary
   
   Overall I am happy with the way the project turned out. Using Vanilla JavaScript I did encounter a few hiccups however with the use of stackoverflow, and tutorials on youtube I managed to overcome them.
   
   Going forward I will like to learn more about other Vanilla JavaScript logic that I can use to build small projects as well as looking into CSS Grids. this will help me with making responsive designing much smoother and easier for me.
   
   
+## Contributions 
+ This code and design was inspired by Jonas Schmedtmann in his Morden JavaScript course on Udemy. I have wrote the main parts of code by myself with some influence and help from Jonas' tutorials
   
 
   
