@@ -85,6 +85,8 @@ Note: z-index only works on positioned elements (position: absolute, position: r
 ## Contributions 
  This code and design was inspired by Jonas Schmedtmann in his Morden JavaScript course on Udemy. I have wrote the main parts of code by myself with some influence and help from Jonas' tutorials
   
+## Disclaimer
+	<p> In thw '100 and Beyond' game, the screenshots show they player winning when the score reaches above 20. This is Only for demo purposes
 
   
   
